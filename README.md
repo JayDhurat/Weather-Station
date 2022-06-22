@@ -1,1 +1,1 @@
-# Wheather-Station-
+# Weather-Station-
